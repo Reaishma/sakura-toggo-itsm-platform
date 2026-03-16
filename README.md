@@ -1,4 +1,4 @@
-# Unified Enterprise ITSM Simulator
+# Sakura-Toggo-itsm-Platform
 
 A **web-based Enterprise IT Service Management (ITSM) platform simulator** that demonstrates how modern service desk systems manage tickets, assets, service requests, and operational workflows.
 
@@ -164,6 +164,7 @@ The interface design and workflow concepts are inspired by widely used IT Servic
 This project is **not affiliated with, endorsed by, or associated with** any of these companies or products. All product names, trademarks, and registered trademarks are the property of their respective owners.
 
 The simulator was developed to demonstrate enterprise ITSM concepts such as incident management, service requests, SLA tracking, and asset management.
+
 ---
 
 ## Author
